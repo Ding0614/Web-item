@@ -1,0 +1,689 @@
+body{
+    background-color: #DCDCDC;
+    margin: 0px;
+}
+
+.top-container{
+    background-color: white;
+    margin: 0px auto;
+    border: 0px;
+    padding: 0px;
+    position: relative;
+    width: 100%;
+    height: 60px;
+}
+
+.logo-container{
+    background-color: white;
+    margin: 0px auto;
+    position: relative;
+    width: 217px;
+    height: 60px;
+    left: -450px;
+}
+
+.title1-container {
+    margin: 0px auto;
+    position: relative;
+    width: 60px;
+    height: 30px;
+    background-color: white;
+    top: -40px;
+    left: -260px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.title2-container {
+    margin: 0px auto;
+    position: relative;
+    width: 60px;
+    height: 30px;
+    background-color: white;
+    top: -70px;
+    left: -160px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.title3-container {
+    margin: 0px auto;
+    position: relative;
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    top: -100px;
+    left: -50px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.title4-container {
+    margin: 0px auto;
+    position: relative;
+    width: 100px;
+    height: 30px;
+    background-color: whitew;
+    top: -130px;
+    left: 80px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.title5-container {
+    margin: 0px auto;
+    position: relative;
+    width: 60px;
+    height: 30px;
+    background-color: white;
+    top: -160px;
+    left: 180px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.login{
+    outline-color: aqua;
+}
+
+.login input{
+    display: block;
+    position: relative;
+    margin: 0px auto;
+    text-align: center;
+    background: none;
+    padding: 6px;
+    font-size: 15px;
+    border-radius: 22px;
+    width: 280px;
+    outline-color: aqua;
+    left: 430px;
+    top: -190px;
+}
+
+
+
+
+
+
+.fc_1{
+    background-color: CornflowerBlue  ;
+    margin: 0px auto;
+    padding: 0px;
+    position: relative;
+    width: 1150px;
+    height: 200px;
+    top: 30px;
+    border-radius: 20px;
+}
+
+.fc_1 .fc1_1{
+    background-color: white  ;
+    margin: 0px auto;
+    padding: 0px;
+    position: relative;
+    width: 120px;
+    height: 120px;
+    top: 40px;
+    left: -450px;
+    border-radius: 20px;
+}
+
+.fc_1 .fc1_2{
+    background-color: white  ;
+    margin: 0px auto;
+    padding: 0px;
+    position: relative;
+    width: 200px;
+    height: 45px;
+    top: -80px;
+    left: -260px;
+    border-radius: 8px;
+}
+
+.id{
+    color: black;
+    font-weight: bold;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.fc_1 .fc1_3{
+    background-color: white  ;
+    margin: 0px auto;
+    padding: 0px;
+    position: relative;
+    width: 320px;
+    height: 45px;
+    top: -125px;
+    left: 20px;
+    border-radius: 8px;
+}
+
+.account{
+    color: black;
+    font-weight: bold;
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+
+.fc_1 .fc1_4{
+    background-color: white  ;
+    margin: 0px auto;
+    padding: 0px;
+    position: relative;
+    width: 540px;
+    height: 45px;
+    top: -95px;
+    left: -90px;
+    border-radius: 8px;
+}
+
+.focus_1{
+    color: black;
+    font-weight: bold;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.focus_2{
+    color: black;
+    font-weight: bold;
+    position: relative;
+    top: 10px;
+    left: 160px;
+}
+
+.fc_1 .fc1_5{
+    background-color: orange  ;
+    margin: 0px auto;
+    padding: 0px;
+    position: relative;
+    width: 200px;
+    height: 45px;
+    top: -215px;
+    left: 320px;
+    border-radius: 8px;
+}
+
+.vip{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 10px;
+    left: 20px;
+    font-size: medium;
+}
+
+.fc_1 .fc1_6{
+    background-color: CornflowerBlue  ;
+    margin: 0px auto;
+    padding: 0px;
+    position: relative;
+    width: 300px;
+    height: 45px;
+    top: -185px;
+    left: 370px;
+    border-radius: 8px;
+}
+
+.day{
+    color: white;
+    font-weight: normal;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    font-size: 16px;
+}
+
+
+
+.sec-1{
+    background-color:#DCDCDC  ;
+    margin: 0px auto;
+    padding: 0px;
+    position: relative;
+    width: 1150px;
+    height: 80px;
+    top: 30px;
+}
+
+.sec-1 .sec1_1{
+    background-color: yellow  ;
+    margin: 0px auto;
+    padding: 0px;
+    position: relative;
+    width: 150px;
+    height: 50px;
+    top: 30px;
+    left: -500px;
+}
+
+.zzxx{
+    color: black;
+    font-weight: bold;
+    position: relative;
+    top: 14px;
+    left: 35px;
+    font-size: 15px;
+}
+
+.sec-1 .sec1_2{
+    background-color: red  ;
+    margin: 0px auto;
+    padding: 0px;
+    position: relative;
+    width: 150px;
+    height: 50px;
+    top: -20px;
+    left: -350px;
+}
+
+.ywc{
+    color: black;
+    font-weight: bold;
+    position: relative;
+    top: 14px;
+    left: 45px;
+    font-size: 15px;
+}
+
+.sec-1 .sec1_3{
+    background-color: yellow  ;
+    margin: 0px auto;
+    padding: 0px;
+    position: relative;
+    width: 150px;
+    height: 50px;
+    top: -70px;
+    left: -200px;
+}
+
+.sckc{
+    color: black;
+    font-weight: bold;
+    position: relative;
+    top: 14px;
+    left: 35px;
+    font-size: 15px;
+}
+
+.sec-1 .sec1_4{
+    background-color: red  ;
+    margin: 0px auto;
+    padding: 0px;
+    position: relative;
+    width: 150px;
+    height: 50px;
+    top: -120px;
+    left: -50px;
+}
+
+.ksjd{
+    color: black;
+    font-weight: bold;
+    position: relative;
+    top: 14px;
+    left: 35px;
+    font-size: 15px;
+}
+
+
+.sec-2{
+    background-color: white;
+    margin: 0px auto;
+    padding: 0px;
+    border-radius: 15px;
+    position: relative;
+    width: 1150px;
+    height: 630px;
+    top: 50px;
+}
+
+.sec-2 .sec-2_1{
+    background-color: GoldenRod ;
+    margin: 0px auto;
+    padding: 0px;
+    position: relative;
+    width: 200px;
+    height: 150px;
+    top: 35px;
+    left: -410px;
+    text-align: center;
+}
+
+.sec-2 .sec-2_2{
+    background-color: MediumPurple ;
+    margin: 0px auto;
+    padding: 0px;
+    position: relative;
+    width: 200px;
+    height: 150px;
+    top: -115px;
+    left: -140px;
+    text-align: center;
+}
+
+.sec-2 .sec-2_3{
+    background-color: LightSeaGreen ;
+    margin: 0px auto;
+    padding: 0px;
+    position: relative;
+    width: 200px;
+    height: 150px;
+    top: -265px;
+    left: 130px;
+    text-align: center;
+}
+
+.sec-2 .sec-2_4{
+    background-color: SteelBlue ;
+    margin: 0px auto;
+    padding: 0px;
+    position: relative;
+    width: 200px;
+    height: 150px;
+    top: -415px;
+    left: 400px;
+    text-align: center;
+}
+
+.sec-2 .sec-2_5{
+    background-color: MediumPurple ;
+    margin: 0px auto;
+    padding: 0px;
+    position: relative;
+    width: 200px;
+    height: 150px;
+    top: -365px;
+    left: -410px;
+    text-align: center;
+}
+
+.sec-2 .sec-2_6{
+    background-color: LightSeaGreen ;
+    margin: 0px auto;
+    padding: 0px;
+    position: relative;
+    width: 200px;
+    height: 150px;
+    top: -515px;
+    left: -135px;
+    text-align: center;
+}
+
+.sec-2 .sec-2_7{
+    background-color: SteelBlue ;
+    margin: 0px auto;
+    padding: 0px;
+    position: relative;
+    width: 200px;
+    height: 150px;
+    top: -665px;
+    left: 130px;
+    text-align: center;
+}
+
+.sec-2 .sec-2_8{
+    background-color: GoldenRod ;
+    margin: 0px auto;
+    padding: 0px;
+    position: relative;
+    width: 200px;
+    height: 150px;
+    top: -815px;
+    left: 400px;
+    text-align: center;
+}
+
+.sec-2 .sec-2_9{
+    background-color: LightSeaGreen ;
+    margin: 0px auto;
+    padding: 0px;
+    position: relative;
+    width: 200px;
+    height: 150px;
+    top: -765px;
+    left: -410px;
+    text-align: center;
+}
+
+.sec-2 .sec-2_10{
+    background-color: SteelBlue ;
+    margin: 0px auto;
+    padding: 0px;
+    position: relative;
+    width: 200px;
+    height: 150px;
+    top: -915px;
+    left: -135px;
+    text-align: center;
+}
+
+.sec-2 .sec-2_11{
+    background-color: GoldenRod ;
+    margin: 0px auto;
+    padding: 0px;
+    position: relative;
+    width: 200px;
+    height: 150px;
+    top: -1065px;
+    left: 130px;
+    text-align: center;
+}
+
+.sec-2 .sec-2_12{
+    background-color: MediumPurple ;
+    margin: 0px auto;
+    padding: 0px;
+    position: relative;
+    width: 200px;
+    height: 150px;
+    top: -1215px;
+    left: 400px;
+    text-align: center;
+}
+
+
+.kc1{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+}
+
+.kc2{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+}
+
+.kc3{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+}
+
+.kc4{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+}
+
+.kc5{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+}
+
+.kc6{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+}
+
+.kc7{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+}
+
+.kc8{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+}
+
+.kc9{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+}
+
+.kc10{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+}
+
+.kc11{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+}
+
+.kc12{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+}
+
+.kc13{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+}
+
+.kc14{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+}
+
+.kc15{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+}
+
+.kc16{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+}
+
+.kc17{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+}
+
+.kc18{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+}
+
+.kc19{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+}
+
+.kc20{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+}
+
+.kc21{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+}
+
+.kc22{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+
+}
+
+.kc23{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+
+}
+
+.kc24{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+
+}
+
+.kc25{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+
+}
+
+.kc26{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+
+}
+
+.kc27{
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+
+}
