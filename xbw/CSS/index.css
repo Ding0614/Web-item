@@ -143,6 +143,10 @@ body{
     border-radius: 20px;
 }
 
+.index_1{
+    border-radius: 10px;
+}
+
 .login_sign{
     position: relative;
     margin: 0px auto;
