@@ -66,7 +66,7 @@ body{
     position: relative;
     width: 100px;
     height: 30px;
-    background-color: whitew;
+    background-color: white;
     top: -130px;
     left: 80px;
     font-size: 20px;
@@ -116,14 +116,22 @@ body{
     margin: 0px auto;
     padding: 0px;
     position: relative;
-    width: 1150px;
+    width: 1050px;
     height: 300px;
     top: 15px;
+    left: -30px;
     border-radius: 20px;
 }
 
+.fc_1{
+    border-radius: 10px;
+    position: relative;
+    left: 0px;
+    top: 0px;
+}
+
 .second-container{
-    background-color: white  ;
+    background-color: #DCDCDC  ;
     margin: 0px auto;
     padding: 0px;
     position: relative;
@@ -228,7 +236,7 @@ body{
 
 
 .third-container{
-    background-color: white  ;
+    background-color: #DCDCDC  ;
     margin: 0px auto;
     padding: 0px;
     position: relative;
@@ -248,7 +256,7 @@ body{
 }
 
 .tc1{
-    background-color: lightgray  ;
+    background-color: darkgray  ;
     margin: 0px auto;
     padding: 0px;
     position: relative;
@@ -263,6 +271,8 @@ body{
     position: relative;
     left: 5px;
     top: 5px;
+    color: white;
+    font-weight: bold;
 }
 
 .tc2{

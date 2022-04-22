@@ -118,6 +118,15 @@ body{
     border-radius: 20px;
 }
 
+.bzhyl{
+    position: relative;
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    top: 100px;
+}
+
 .second-container{
     background-color: white  ;
     margin: 0px auto;
@@ -228,6 +237,22 @@ body{
     border-radius: 10px;
 }
 
+.tc1_1{
+    text-align: center;
+    position: relative;
+    left: 0px;
+    width: 120px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.tc1_2{
+    position: relative;
+    left: 40px;
+    width: 900px;
+    top: 12px;
+}
+
 .tc2{
     background-color: #DCDCDC;
     margin: 0px auto;
@@ -239,6 +264,63 @@ body{
     left: 0px;
     border-radius: 10px;
 }
+
+.tc2_1{
+    position: relative;
+    font-weight: bold;
+    font-size: 18px;
+    left: 20px;
+}
+
+.tc2_2{
+    position: relative;
+    left: 20px;
+    top: 5px;
+}
+
+.tc2_3{
+    position: relative;
+    left: 40px;
+    top: 10px;
+}
+
+.tc2_4{
+    position: relative;
+    left: 40px;
+    top: 20px;
+}
+
+.tc2_5{
+    position: relative;
+    left: 40px;
+    top: 30px;
+}
+
+.tc2_6{
+    position: relative;
+    left: 40px;
+    top: 40px;
+}
+
+.tc2_7{
+    position: relative;
+    left: 40px;
+    top: 50px;
+}
+
+.tc2_8{
+    position: relative;
+    left: 40px;
+    top: 60px;
+}
+
+.tc2_9{
+    position: relative;
+    left: 40px;
+    top: 65px;
+}
+
+
 
 .tc3{
     background-color: #DCDCDC;
@@ -252,6 +334,21 @@ body{
     border-radius: 10px;
 }
 
+.tc3_1{
+    position: relative;
+    left: 20px;
+    top: 3px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.tc3_2{
+    position: relative;
+    left: 50px;
+    top: 10px;
+}
+
+
 .tc4{
     background-color: #DCDCDC;
     margin: 0px auto;
@@ -263,6 +360,102 @@ body{
     left: 0px;
     border-radius: 10px;
 }
+
+.tc4_1{
+    position: relative;
+    left: 18px;
+    top: 5px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.tc4_2{
+    position: relative;
+    left: 40px;
+    top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.tc4_3{
+    position: relative;
+    left: 30px;
+    top:40px;
+}
+
+.tc4_4{
+    position: relative;
+    left: 240px;
+    top: -150px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.tc4_5{
+    position: relative;
+    left: 240px;
+    top: -140px;
+    font-size: 12px;
+}
+
+.tc4_6{
+    position: relative;
+    top: -380px;
+    left: 480px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.tc4_7{
+    position: relative;
+    left: 480px;
+    top: -360px;
+}
+
+.tc4_8{
+    position: relative;
+    top: -350px;
+    left: 480px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.tc4_9{
+    position: relative;
+    left: 480px;
+    top: -340px;
+}
+
+.tc4_10{
+    position: relative;
+    top: -555px;
+    left: 680px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.tc4_11{
+    position: relative;
+    left: 680px;
+    top: -540px;
+}
+
+.tc4_12{
+    position: relative;
+    top: -530px;
+    left: 680px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.tc4_13{
+    position: relative;
+    left: 680px;
+    top: -530px;
+}
+
+
+
 
 .a{
     text-decoration: none;

@@ -87,7 +87,6 @@ body{
     text-align: center;
 }
 
-
 .login{
     outline-color: aqua;
 }
@@ -105,7 +104,6 @@ body{
     outline-color: aqua;
     left: 430px;
     top: -190px;
-
 }
 
 .first-container{
@@ -199,18 +197,55 @@ body{
     color: black;
     font-weight: bolder;
     position: relative;
-    font-size: 10px;
-    top: -30px;
+    font-size: 13px;
+    top: -15px;
     left: 10px; 
 }
 
+.tc_2{
+    color: black;
+    font-weight: bolder;
+    position: relative;
+    font-size: 13px;
+    top: 0px;
+    left: 10px; 
+}
 
+.tc_3{
+    color: black;
+    font-weight: bolder;
+    position: relative;
+    font-size: 13px;
+    top: 10px;
+    left: 10px; 
+}
 
+.tc_4{
+    color: black;
+    font-weight: bolder;
+    position: relative;
+    font-size: 13px;
+    top: 20px;
+    left: 10px; 
+}
 
+.tc_5{
+    color: black;
+    font-weight: bolder;
+    position: relative;
+    font-size: 13px;
+    top: 30px;
+    left: 10px; 
+}
 
-
-
-
+.tc_6{
+    color: black;
+    font-weight: bolder;
+    position: relative;
+    font-size: 13px;
+    top: 40px;
+    left: 10px; 
+}
 
 
 
@@ -250,6 +285,7 @@ body{
     left: 455px;
     border-radius: 10px;
 }
+
 
 .forth-container{
     background-color: Gold  ;
@@ -367,6 +403,60 @@ body{
     height: 260px;
     top: 130px;
     border-radius: 10px;
+}
+
+.sc_1{
+    color: black;
+    font-weight: bolder;
+    position: relative;
+    font-size: 18px;
+    top: 50px;
+    left: 20px; 
+}
+
+.sc_2{
+    color: black;
+    font-weight: bolder;
+    position: relative;
+    font-size: 18px;
+    top: 60px;
+    left: 20px; 
+}
+
+.sc_3{
+    color: black;
+    font-weight: bolder;
+    position: relative;
+    font-size: 18px;
+    top: 70px;
+    left: 20px; 
+}
+
+.sc_4{
+    color: black;
+    font-weight: bolder;
+    position: relative;
+    font-size: 18px;
+    top: -80px;
+    left: 650px; 
+}
+
+.sc_5{
+    color: black;
+    font-weight: bolder;
+    position: relative;
+    font-size: 18px;
+    top: -70px;
+    left: 650px; 
+}
+
+.sc_6{
+    color: black;
+    font-weight: bolder;
+    position: relative;
+    font-size: 18px;
+    top: -60px;
+    left: 650px; 
 }
 
 .eighth-container{

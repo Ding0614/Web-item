@@ -144,6 +144,12 @@ body{
     top: 6px;
 }
 
+.fc1_1{
+    font-size: 12px;
+    position: relative;
+    top: -32px;
+    left: 10px;
+}
 
 
 .second-container{
@@ -213,6 +219,13 @@ body{
     border-radius: 10px;
 }
 
+.tc1_1{
+    position: relative;
+    font-size: 13px;
+    left: 60px;
+    top: -38px;
+}
+
 .ksxx{
     color: white;
     font-weight: bold;
@@ -264,6 +277,94 @@ body{
     left: -50px;
     text-align: center;
 }
+
+.ffc1_1{
+    position: relative;
+    font-size: 15px;
+    top: -20px;
+    left: 13px;
+}
+
+.sc1_1{
+    position: relative;
+    left: 30px;
+}
+
+.sc2_1{
+    position: relative;
+    padding: 0px auto;
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: darkslateblue;
+    left: 140px;
+    top: 40px;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+
+.sc2_2{
+    position: relative;
+    padding: 0px auto;
+    width: 30px;
+    height: 30px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: darkslateblue;
+    left: 240px;
+    top: 5px;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+
+.sc2_3{
+    position: relative;
+    padding: 0px auto;
+    width: 30px;
+    height: 30px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: darkslateblue;
+    left: 280px;
+    top: -30px;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+
+.sc2_4{
+    position: relative;
+    padding: 0px auto;
+    width: 30px;
+    height: 30px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: darkslateblue;
+    left: 320px;
+    top: -65px;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+
+.sc2_5{
+    position: relative;
+    padding: 0px auto;
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: darkslateblue;
+    left: 400px;
+    top: -100px;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+
 /**/
 
 .a{
