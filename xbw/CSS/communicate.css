@@ -195,6 +195,26 @@ body{
     left: 10px;
 }
 
+.tc_1{
+    color: black;
+    font-weight: bolder;
+    position: relative;
+    font-size: 10px;
+    top: -30px;
+    left: 10px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
 .tc2{
     background-color: white ;
     margin: 0px auto;
